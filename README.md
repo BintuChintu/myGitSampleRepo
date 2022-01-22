@@ -1,1 +1,2 @@
 # myGitSampleRepo
+my first commit
